@@ -52,7 +52,7 @@ Projeto profissional de análise de mercado de criptomoedas, focado em Bitcoin (
 - /docs                -   **Documentação complementar**
 
  ## 🏁 Como Executar
-**Clone o repositório:** git clone https://github.com/seu-usuario/analise-criptomoedas.git
+**Clone o repositório:** git clone https://github.com/brunosuassuna/Analise-de-Criptomoedas-Bitcoin-Ethereum.git
 - Importe os notebooks no Databricks
 - Execute em ordem
 

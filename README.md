@@ -56,4 +56,9 @@ Projeto profissional de análise de mercado de criptomoedas, focado em Bitcoin (
 - Importe os notebooks no Databricks
 - Execute em ordem
 
-  ## 📄 Licença
+ ## 📜 Licença
+- **Licença:** [MIT](https://opensource.org/license/MIT)
+
+## ✉️ Contato
+- **Email:** brunosuassuna.dev@gmail.com
+- **LinkedIn:** www.linkedin.com/in/bruno-suassuna-698aa7235

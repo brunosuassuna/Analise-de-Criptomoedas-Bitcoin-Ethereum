@@ -37,22 +37,24 @@ Projeto profissional de análise de mercado de criptomoedas, focado em Bitcoin (
 - Git para controle de versão
 
 ## 📂 Estrutura do Projeto
-
-- /notebooks
--  /data_ingestion         - **Coleta e preparação de dados**
- - /technical_analysis     - **Análise e indicadores técnicos**
- - /visualizations         - **Códigos de visualização**
- - /models                -  **Modelos preditivos (ARIMA, Prophet)**
-  
-- /data
- - /raw                 -  **Dados brutos da API**
- - /processed            -  **Dados tratados**
- - /output              -   **Resultados e relatórios**
-
-- /docs                -   **Documentação complementar**
+```bash
+├── 📂 notebooks/                           # Notebooks organizados por etapa
+│   ├── 📂 data_ingestion/                  # Coleta e preparação de dados
+│   ├── 📂 technical_analysis/              # Análise e indicadores técnicos
+│   ├── 📂 visualizations/                  # Códigos de visualização
+│   └── 📂 models/                          # Modelos preditivos (ARIMA, Prophet)
+├── 📂 data/                                # Diretório de dados
+│   ├── 📂 raw/                             # Dados brutos da API
+│   ├── 📂 processed/                       # Dados tratados
+│   └── 📂 output/                          # Resultados e relatórios finais
+└── 📂 docs/                                # Documentação complementar
+```
 
  ## 🏁 Como Executar
-**Clone o repositório:** git clone https://github.com/brunosuassuna/Analise-de-Criptomoedas-Bitcoin-Ethereum.git
+**Clone o repositório:** 
+```bash
+git clone https://github.com/brunosuassuna/Analise-de-Criptomoedas-Bitcoin-Ethereum.git
+```
 - Importe os notebooks no Databricks
 - Execute em ordem
 
